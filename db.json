@@ -1,0 +1,28 @@
+{
+  "vatregistrations": [
+    {
+      "VatRegistrationID": "368F32A8-822A-4C50-9553-C5CEED1C4254",
+      "RegisteredVatNo": "2020",
+      "EffectiveDate": "2019-11-28 16:57:46.873",
+      "DisolvedData": "2019-11-30 16:57:46.873",
+      "VatReturnFrequency": "3 months",
+      "TradeClassification": "00300"
+    },
+    {
+      "VatRegistrationID": "E216E644-679A-4AAB-A198-4B59ABAE0490",
+      "RegisteredVatNo": "2420",
+      "EffectiveDate": "2019-11-11 16:57:46.873",
+      "DisolvedData": "2019-11-30 16:57:46.873",
+      "VatReturnFrequency": "3 months",
+      "TradeClassification": "00500"
+    },
+    {
+      "VatRegistrationID": "90D4767E-93A3-461A-9F90-8BA16C9DCE81",
+      "RegisteredVatNo": "2520",
+      "EffectiveDate": "2019-11-14 16:57:46.873",
+      "DisolvedData": "2019-11-20 16:57:46.873",
+      "VatReturnFrequency": "3 months",
+      "TradeClassification": "04300"
+    }
+  ]
+}
